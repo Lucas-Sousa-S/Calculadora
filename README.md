@@ -20,6 +20,11 @@ Desenvolvi uma calculadora interativa e responsiva que realiza operações matem
 A **Calculadora Simples** é uma aplicação web que permite ao usuário realizar operações matemáticas de forma prática e simples.  
 O design minimalista e responsivo garante fácil usabilidade tanto em computadores quanto em dispositivos móveis.  
 
+## 🚀 Deploy
+
+Você pode visualizar o projeto funcionando através do seguinte link: [Em construção]
+
+
 Tudo isso em uma aplicação rápida, leve e adaptada para qualquer tela.
 
 ## Tecnologias  
